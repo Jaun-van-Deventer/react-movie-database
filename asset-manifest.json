@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jaun-van-Deventer/react-movie-database/static/css/main.cfd248c8.css",
+    "main.js": "/Jaun-van-Deventer/react-movie-database/static/js/main.e6bd2446.js",
+    "static/js/787.7b64073a.chunk.js": "/Jaun-van-Deventer/react-movie-database/static/js/787.7b64073a.chunk.js",
+    "index.html": "/Jaun-van-Deventer/react-movie-database/index.html",
+    "main.cfd248c8.css.map": "/Jaun-van-Deventer/react-movie-database/static/css/main.cfd248c8.css.map",
+    "main.e6bd2446.js.map": "/Jaun-van-Deventer/react-movie-database/static/js/main.e6bd2446.js.map",
+    "787.7b64073a.chunk.js.map": "/Jaun-van-Deventer/react-movie-database/static/js/787.7b64073a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd248c8.css",
+    "static/js/main.e6bd2446.js"
+  ]
+}
